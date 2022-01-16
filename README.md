@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@biswajitdas.me**
 
-- ⚡ Fun fact **I love coding and creating awesome websites.**
+<!-- - ⚡ Fun fact **I love coding and creating awesome websites.** -->
 
 <br/>
 
