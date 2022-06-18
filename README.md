@@ -1,19 +1,14 @@
 <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png" height="175px"/></a>
 
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswajit Das</h1>
+<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10" height="10">, I'm Biswajit Das</h1>
 <h2 align="center">I'm a Passionate Full Stack Web Developer From Bangladesh.</h2>
 
 ## 1. 🙋‍♂️ Here Are Some Info About Me:
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **AWS, NodeJS, MongoDB**
+- 🌱 I’m currently learning **GCloud**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 📫 How to reach me **hello@biswajitdas.me**
-
-<!-- - ⚡ Fun fact **I love coding and creating awesome websites.** -->
 
 <br/>
 
@@ -46,9 +41,5 @@
 ## 4. Connect With Me:
 
 <p align="left">
-
-<a href = "https://www.facebook.com/biswajitdas.me/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://www.linkedin.com/in/biswajitdasme/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:hello@biswajitdas.me"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-
 </p>
