@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="100%" src="https://i.ibb.co/bRMgJZ7/LINKDEN-BANNER.png" height="175px"/></a>
 
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10" height="10">, I'm Biswajit Das</h1>
+<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">, I'm Biswajit Das</h1>
 <h2 align="center">I'm a Passionate Full Stack Web Developer From Bangladesh.</h2>
 
 ## 1. 🙋‍♂️ Here Are Some Info About Me:
